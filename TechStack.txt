@@ -1,0 +1,12 @@
+1. React
+2. TypeScript
+3. Next
+4. Tailwind
+5. shadcn/ui
+6. drizzle orm
+7. pnpm
+8. Vercel (useful for deploying webapp for scaling)
+9. Clerk
+10. PostHog (Analytics tool)
+11. upstash (fastest kv store)
+12. Sentry
